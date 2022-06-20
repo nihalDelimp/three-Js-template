@@ -1,0 +1,273 @@
+{
+    "themeOptions": [{
+
+
+        "debug": 0,
+        "sequence": 1,
+        "loadingScreen": "site/1015/220322_scroll-1.gif",
+        "resolution": 768
+
+    }],
+    "projects": [{
+            "title": "one",
+            "slides": [
+                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/768x768/TESLA1-thumbnail-768x538-0001.png", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 538 } } },
+
+                { "media": { "type": "image", "src": "assets/images/768x768/512x288-0hbmySRoDic.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-60Q8wXhB2Ak.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-asu4uEqSQi8.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-DmfYyzj8UG4.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-GUfoE8VR7fc.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/586x768-JfY9sAzCjWk.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 586, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-Name-Tag-Mockup-scaled.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-pcuJAvlPM94.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/428x512-r1444x2048.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 428, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-TQXKRLL529w.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-Yfu132WqhCI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/768x768/TESLA1-thumbnail-768x538-0001.png", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 538 } } },
+                { "media": { "type": "video", "url": "assets/videos/yup1.mp4", "src": "assets/images/768x768/yup1-thumbnail-512x341-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } }
+            ]
+        },
+        {
+            "title": "two",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768--GfxJDmdYhI.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x511-61BuFf6TXL4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-abri_outdoor_2-1.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-DmKNMqWcuQE.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/576x768-gVd6FuVinc0.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 576, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-jh9b9SKclO0.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/767x510-NCpCF8e4ZRc.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 767, "height": 510 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x288-Pendulum.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 288 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x546-RELEAF-min.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 546 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-U9vulDiWwAQ.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/767x614-ymXCcUe7IvU.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 767, "height": 614 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/production ID_3818213.mp4", "src": "assets/images/768x768/production ID_3818213-thumbnail-512x288-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } }
+                },
+                { "media": { "type": "video", "url": "assets/videos/TheDrop_Head.mp4", "src": "assets/images/768x768/TheDrop_Head-thumbnail-768x768-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 768 } } }
+            ]
+        },
+        {
+            "title": "three",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341--HxvkW4-IMo.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-62hjTK7f9ak.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x288-A1lMg3gZhU4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 288 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-dsc_0013.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-hh1330Idi78.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/763x768-JK2GsMFmjk4.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 763, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/511x341-NGoTz9viuNg.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 511, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x522-pendulum.gif" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 522 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/511x341-r8nUg6eXUxY.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 511, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-ue2LA6aHPn4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/409x511-Ysm5ctZB-w8.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 409, "height": 511 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-ron-lach-7653591.mp4", "src": "assets/images/768x768/pexels-ron-lach-7653591-thumbnail-404x768-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 404, "height": 768 } }
+                }
+            ]
+        },
+        {
+            "title": "four",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-0QvjqqqgeXc.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-6B6zENU_E5o.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-b6eT_wytliw.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-eghynwvNd3I.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-HPTDXcVb-mA.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-JOxspLlAxHg.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x576-newr1600x1200.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 576 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-pGv0KGuAL1M.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/614x768-RfbRphj4G9c.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 614, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-uR6VahqorEk.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x432-yup2.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 432 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-nitin-khajotia-12041905.mp4", "src": "assets/images/768x768/pexels-nitin-khajotia-12041905-thumbnail-512x288-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } }
+                }
+            ]
+        },
+        {
+            "title": "five",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-1sPC_55K3cs.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-6pBSyfpF3Fs.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-bKjo3Cfxer8.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-F13J53EqYCE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-h_JIYl_mAVc.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-JSwiqkDhmxo.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-OEGwCNgIDcQ.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-pHSa_S6uLrA.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x364-SONYMUSIC.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 364 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-v1jr5JyrhGE.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-yvO4IMM1PUc.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-polina-kholodova-11055251.mp4", "src": "assets/images/768x768/pexels-polina-kholodova-11055251-thumbnail-432x768-0001.png" },
+                    "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 432, "height": 768 } }
+                }
+            ]
+        },
+        {
+            "title": "six",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-1YQb_ZNYbWE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/409x512-6NCpj7JgNWY.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 409, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x768-bls_keinzel_architekten_1_square.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-F11ZNFbzbNM.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x768-IMG_4127.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-K0n2GSzBYLs.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x480-NTk3cZmnc5Y.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 480 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x384-Q0cN-MKf1_E.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 384 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-sls_asaceremony_1.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x511-V7hibs9xhe4.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 511 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-YXg8eOyKI8Y.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-luke-nomad-12043107.mp4", "src": "assets/images/768x768/pexels-luke-nomad-12043107-thumbnail-512x288-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } }
+                }
+            ]
+        },
+        {
+            "title": "seven",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-0WqYB8E7MZc.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-6qJj_W44XUw.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-bpBXXxWVVg0.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-F3_14hBrG1Y.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-it5FBexh1T0.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-k4od6g83m3Q.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-Ogs9OxFqrKI.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-QE-V0AsGzdw.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-rjz5XjQE_uc.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/548x768-W1v7WgrTUpI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 548, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-Z2uovJDNwNQ.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-luke-nomad-12043316.mp4", "src": "assets/images/768x768/pexels-luke-nomad-12043316-thumbnail-768x432-0001.png" },
+                    "mode": { "type": "large", "repeat": true, "imageSize": { "width": 768, "height": 432 } }
+                }
+            ]
+        },
+        {
+            "title": "eight",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-23tpftFIAD0.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/339x512-7hUS_IyOjFQ.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 339, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/509x768-btdgeMxYP7I.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 509, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-FIG3Q6vD9yk.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/548x768-iYKe8-T3jeI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 548, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-Kd-hUkLDSK0.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-Os2Wo6ZqjHE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/409x512-qEsxn24XjaE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 409, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x768-SONY.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/339x512-WH8kuWkBJoI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 339, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x508-zbIJIr2E23c.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 508 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-nitin-khajotia-12041903.mp4", "src": "assets/images/768x768/pexels-nitin-khajotia-12041903-thumbnail-512x288-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } }
+                }
+            ]
+        },
+        {
+            "title": "nine",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-3oX4qY_Q04A.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-7q9LXEEZwbw.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-BvjvoMPzPlU.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/575x768-G6QUzZ9dQZY.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 575, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/409x512-J5AokgxqMg4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 409, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-kHeDwy7alYk.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x511-OROlcHTDads.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-qEJRVTbDpTQ.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-sRfNDjsron0.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-Wi09CswsbFs.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/384x512-zFOivJjLUy0.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 384, "height": 512 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-luke-nomad-12043091.mp4", "src": "assets/images/768x768/pexels-luke-nomad-12043091-thumbnail-768x432-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 432 } }
+                }
+            ]
+        },
+        {
+            "title": "ten",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/768x432-4ENNx8UGtMQ.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 432 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x288-7jET4PisUaU.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 288 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-cG09b4ir9gM.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-gdi9fJboJQU.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/511x768-j5FMkRot0i8.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 511, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-kknwwNdAmfw.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/614x768-p0lCiglM7T8.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 614, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-qrJvVPQQM_c.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x432-t2gJZy6ydY0.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 432 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x345-WwLEWZV0l4A.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 345 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/569x768-zzcwdzkNr0U.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 569, "height": 768 } } },
+                {
+                    "media": { "type": "video", "url": "assets/videos/pexels-arvin-latifi-6466763.mp4", "src": "assets/images/768x768/pexels-arvin-latifi-6466763-thumbnail-512x288-0001.png" },
+                    "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } }
+                }
+            ]
+        },
+        {
+            "title": "eleveln",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/512x288-4SsppecLXoU.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 288 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-83qJsJlcGNw.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/373x512-csy7ldWm-0E.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 373, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-GFMP30ERFCY.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/287x512-j8DOpUvoc5I.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 287, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-kU89IGerS7s.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x340-p17N6vym4Fw.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 340 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x511-qhDXZIaDLzU.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 511 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-T7Tb-mMF3iY.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/511x767-X1xhnKjTNlk.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 511, "height": 767 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-_NWjpwmJmOk.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                {
+                    "media": {
+                        "type": "video",
+                        "url": "assets/videos/95179_man_scoring_a_goal_while_playing_basketball_low_angle_BAndW_by_Via_Films_Artgrid-HD_H264-HD.mp4",
+                        "src": "assets/images/768x768/95179_man_scoring_a_goal_while_playing_basketball_low_angle_BAndW_by_Via_Films_Artgrid-HD_H264-HD-thumbnail-768x432-0001.png"
+                    },
+                    "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 432 } }
+                }
+            ]
+        },
+        {
+            "title": "twelve",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-4zntP-4ezl4.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x512-8jX52qTE4Nk.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-dEjXx-PCWEs.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x512-giphy.gif" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x768-jd06987.2048x2048.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 768, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x512-luI-LqQdav8.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/614x768-pDTJKsq8KNE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 614, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/341x511-QvLjtumQvz4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x768-TcjyZMZxqQ4.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-Y5mDHe7qm3g.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x558-Снимок-экрана-2022-01-17-в-12.31.06.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 558 } } },
+                { "media": { "type": "video", "url": "assets/videos/omniFLOW.mp4", "src": "assets/images/768x768/omniFLOW-thumbnail-512x384-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 384 } } }
+            ]
+        },
+        {
+            "title": "thirteen",
+            "slides": [
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-5FxiXU8RouQ.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-9pCx8u0BC5U.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-dd0c_wsEFx8.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x532-gntWV1ZOQlw.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 532 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/403x512-jd07010.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 403, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-nAk84oiaVKE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/511x383-Pe2JjxJAZ6g.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 511, "height": 383 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x512-r2048x1366-2.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-U9Hhr9CGMgE.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/768x511-X4ezNyl-ngE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 511 } } },
+                { "media": { "type": "image", "src": "assets/images/768x768/512x341-_YpAFHw2IYg.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
+                { "media": { "type": "video", "url": "assets/videos/DNA.mp4", "src": "assets/images/768x768/DNA-thumbnail-768x576-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 576 } } }
+            ]
+        }
+    ]
+
+
+}

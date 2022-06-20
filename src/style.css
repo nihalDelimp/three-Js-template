@@ -1,19 +1,70 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
 
 html,
-body
-{
+body {
     overflow: hidden;
 }
 
-.webgl
-{
+.scroll {
+    z-index: 1000;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    opacity: 0;
+}
+
+.plane {
+    height: 400000px;
+}
+
+canvas.webgl{
     position: fixed;
+    z-index: 1;
     top: 0;
     left: 0;
     outline: none;
+    opacity: 1;
+}
+
+.loading.completed {
+    opacity: 0;
+  
+     
+}
+
+.loading {
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    z-index: 10000;
+}
+
+.loading img {
+    width: 80%;
+    height: 80vh;
+    max-width: none;
+    object-fit: contain;
+}
+
+.home {
+    overflow: hidden;
+    background-color: #000;
+}
+
+div {
+    display: block;
 }
