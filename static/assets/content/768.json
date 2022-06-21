@@ -11,8 +11,6 @@
     "projects": [{
             "title": "one",
             "slides": [
-                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/768x768/TESLA1-thumbnail-768x538-0001.png", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 538 } } },
-
                 { "media": { "type": "image", "src": "assets/images/768x768/512x288-0hbmySRoDic.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } } },
                 { "media": { "type": "image", "src": "assets/images/768x768/512x768-60Q8wXhB2Ak.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/768x768/341x512-asu4uEqSQi8.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
@@ -24,7 +22,7 @@
                 { "media": { "type": "image", "src": "assets/images/768x768/428x512-r1444x2048.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 428, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/768x768/512x768-TQXKRLL529w.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/768x768/512x341-Yfu132WqhCI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 341 } } },
-                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/768x768/TESLA1-thumbnail-768x538-0001.png", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 538 } } },
+                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/768x768/TESLA1-thumbnail-768x538-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 538 } } },
                 { "media": { "type": "video", "url": "assets/videos/yup1.mp4", "src": "assets/images/768x768/yup1-thumbnail-512x341-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 341 } } }
             ]
         },

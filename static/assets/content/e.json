@@ -13,7 +13,7 @@
                     "media": { "type": "video", "url": "samples/pexels-ron-lach-7653591.mp4", "src": "source/pexels-ron-lach-7653591-thumbnail-337x640-0001.png" },
                     "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 337, "height": 640 } }
                 },
-                { "media": { "type": "video", "url": "samples/TESLA1.mp4", "src": "samples/TESLA1.mp4", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 1080, "height": 756 } } },
+                { "media": { "type": "video", "url": "samples/TESLA1.mp4", "src": "source/TESLA1-thumbnail-1080x756-0001.png" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 1080, "height": 756 } } },
                 { "media": { "type": "video", "url": "samples/yup1.mp4", "src": "source/yup1-thumbnail-827x552-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 827, "height": 552 } } },
                 { "media": { "type": "image", "src": "/site/1040/bls_keinzel_architekten_1_square.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 2048, "height": 2048 } } },
                 { "media": { "type": "image", "src": "source/2048x1365-5FxiXU8RouQ.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 2048, "height": 1365 } } },

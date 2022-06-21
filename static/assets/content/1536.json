@@ -11,8 +11,6 @@
     "projects": [{
             "title": "one",
             "slides": [
-                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/768x768/TESLA1-thumbnail-768x538-0001.png", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 538 } } },
-
                 { "media": { "type": "image", "src": "assets/images/1536x1536/512x768--GfxJDmdYhI.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/1536x1536/1536x1024-5FxiXU8RouQ.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1024 } } },
                 { "media": { "type": "image", "src": "assets/images/1536x1536/768x432-A1lMg3gZhU4.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 432 } } },
@@ -24,7 +22,7 @@
                 { "media": { "type": "image", "src": "assets/images/1536x1536/768x512-r2048x1366-2.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/1536x1536/1536x1024-U9Hhr9CGMgE.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 1536, "height": 1024 } } },
                 { "media": { "type": "image", "src": "assets/images/1536x1536/767x511-Yfu132WqhCI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 767, "height": 511 } } },
-                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/1536x1536/TESLA1-thumbnail-1536x1076-0001.png",  "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1076 } } },
+                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/1536x1536/TESLA1-thumbnail-1536x1076-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1076 } } },
                 { "media": { "type": "video", "url": "assets/videos/yup1.mp4", "src": "assets/images/1536x1536/yup1-thumbnail-768x512-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } }
             ]
         },

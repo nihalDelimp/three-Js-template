@@ -11,7 +11,6 @@
     "projects": [{
             "title": "one",
             "slides": [
-                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/512x512/TESLA1-thumbnail-256x179-0001.png"}, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 256, "height": 179 } } },
                 { "media": { "type": "image", "src": "assets/images/512x512/170x256--GfxJDmdYhI.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 170, "height": 256 } } },
                 { "media": { "type": "image", "src": "assets/images/512x512/341x512-60Q8wXhB2Ak.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 341, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/512x512/170x256-abri_outdoor_2-1.2048x2048.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 170, "height": 256 } } },
@@ -26,7 +25,9 @@
                 {
                     "media": { "type": "video", "url": "assets/videos/pexels-ron-lach-7653591.mp4", "src": "assets/images/512x512/pexels-ron-lach-7653591-thumbnail-269x512-0001.png" },
                     "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 269, "height": 512 } }
-                }            ]
+                },
+                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/512x512/TESLA1-thumbnail-256x179-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 256, "height": 179 } } }
+            ]
         },
         {
             "title": "two",

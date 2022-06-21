@@ -21,7 +21,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/2048x1456-RELEAF-min.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1456 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x512-U9Hhr9CGMgE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1535x1023-Yfu132WqhCI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1535, "height": 1023 } } },
-                { "media": { "type": "video", "url": "samples/TESLA1.mp4", "src": "assets/images/2048x2048/TESLA1-thumbnail-2048x1434-0001.png", "muted":true, "autoplay":true, "playsinline":true }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1434 } } },
+                { "media": { "type": "video", "url": "samples/TESLA1.mp4", "src": "assets/images/2048x2048/TESLA1-thumbnail-2048x1434-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1434 } } },
                 { "media": { "type": "video", "url": "samples/yup1.mp4", "src": "assets/images/2048x2048/yup1-thumbnail-768x512-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } }
             ]
         },
