@@ -21,8 +21,8 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/2048x1456-RELEAF-min.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1456 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x512-U9Hhr9CGMgE.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1535x1023-Yfu132WqhCI.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1535, "height": 1023 } } },
-                { "media": { "type": "video", "url": "samples/TESLA1.mp4", "src": "assets/images/2048x2048/TESLA1-thumbnail-2048x1434-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1434 } } },
-                { "media": { "type": "video", "url": "samples/yup1.mp4", "src": "assets/images/2048x2048/yup1-thumbnail-768x512-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } }
+                { "media": { "type": "video", "url": "assets/videos/TESLA1.mp4", "src": "assets/images/2048x2048/TESLA1-thumbnail-2048x1434-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1434 } } },
+                { "media": { "type": "video", "url": "assets/videos/yup1.mp4", "src": "assets/images/2048x2048/yup1-thumbnail-768x512-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } }
             ]
         },
         {
@@ -40,10 +40,10 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1024x1536-U9vulDiWwAQ.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1024, "height": 1536 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/2048x1638-ymXCcUe7IvU.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 2048, "height": 1638 } } },
                 {
-                    "media": { "type": "video", "url": "samples/production ID_3818213.mp4", "src": "assets/images/2048x2048/production ID_3818213-thumbnail-768x432-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/production ID_3818213.mp4", "src": "assets/images/2048x2048/production ID_3818213-thumbnail-768x432-0001.png" },
                     "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 432 } }
                 },
-                { "media": { "type": "video", "url": "samples/TheDrop_Head.mp4", "src": "assets/images/2048x2048/TheDrop_Head-thumbnail-1536x1536-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1536 } } }
+                { "media": { "type": "video", "url": "assets/videos/TheDrop_Head.mp4", "src": "assets/images/2048x2048/TheDrop_Head-thumbnail-1536x1536-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1536 } } }
             ]
         },
         {
@@ -61,7 +61,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1365x2048-ue2LA6aHPn4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1365, "height": 2048 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/614x768-Ysm5ctZB-w8.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 614, "height": 768 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-ron-lach-7653591.mp4", "src": "assets/images/2048x2048/pexels-ron-lach-7653591-thumbnail-809x1536-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-ron-lach-7653591.mp4", "src": "assets/images/2048x2048/pexels-ron-lach-7653591-thumbnail-809x1536-0001.png" },
                     "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 809, "height": 1536 } }
                 }
             ]
@@ -81,7 +81,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x512-uR6VahqorEk.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1536x864-yup2.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 1536, "height": 864 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-nitin-khajotia-12041905.mp4", "src": "assets/images/2048x2048/pexels-nitin-khajotia-12041905-thumbnail-2048x1152-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-nitin-khajotia-12041905.mp4", "src": "assets/images/2048x2048/pexels-nitin-khajotia-12041905-thumbnail-2048x1152-0001.png" },
                     "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1152 } }
                 }
             ]
@@ -101,7 +101,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1024x1536-V7hibs9xhe4.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1024, "height": 1536 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1365x2048-yvO4IMM1PUc.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1365, "height": 2048 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-polina-kholodova-11055251.mp4", "src": "assets/images/2048x2048/pexels-polina-kholodova-11055251-thumbnail-432x768-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-polina-kholodova-11055251.mp4", "src": "assets/images/2048x2048/pexels-polina-kholodova-11055251-thumbnail-432x768-0001.png" },
                     "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 432, "height": 768 } }
                 }
             ]
@@ -121,7 +121,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1358x2048-WH8kuWkBJoI.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 1358, "height": 2048 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x512-YXg8eOyKI8Y.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-luke-nomad-12043107.mp4", "src": "assets/images/2048x2048/pexels-luke-nomad-12043107-thumbnail-1536x864-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-luke-nomad-12043107.mp4", "src": "assets/images/2048x2048/pexels-luke-nomad-12043107-thumbnail-1536x864-0001.png" },
                     "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 864 } }
                 }
             ]
@@ -141,7 +141,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/548x768-W1v7WgrTUpI.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 548, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1536x1024-Z2uovJDNwNQ.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1024 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-luke-nomad-12043316.mp4", "src": "assets/images/2048x2048/pexels-luke-nomad-12043316-thumbnail-2048x1152-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-luke-nomad-12043316.mp4", "src": "assets/images/2048x2048/pexels-luke-nomad-12043316-thumbnail-2048x1152-0001.png" },
                     "mode": { "type": "large", "repeat": true, "imageSize": { "width": 2048, "height": 1152 } }
                 }
             ]
@@ -161,7 +161,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1536x1024-Wi09CswsbFs.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1024 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1536x2048-zFOivJjLUy0.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 2048 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-nitin-khajotia-12041903.mp4", "src": "assets/images/2048x2048/pexels-nitin-khajotia-12041903-thumbnail-768x432-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-nitin-khajotia-12041903.mp4", "src": "assets/images/2048x2048/pexels-nitin-khajotia-12041903-thumbnail-768x432-0001.png" },
                     "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 432 } }
                 }
             ]
@@ -181,7 +181,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/2048x1365-v1jr5JyrhGE.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 2048, "height": 1365 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x508-zbIJIr2E23c.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 768, "height": 508 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-luke-nomad-12043091.mp4", "src": "assets/images/2048x2048/pexels-luke-nomad-12043091-thumbnail-1536x864-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-luke-nomad-12043091.mp4", "src": "assets/images/2048x2048/pexels-luke-nomad-12043091-thumbnail-1536x864-0001.png" },
                     "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 1536, "height": 864 } }
                 }
             ]
@@ -201,7 +201,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x517-WwLEWZV0l4A.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 768, "height": 517 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1024x1536-_NWjpwmJmOk.jpg" }, "mode": { "type": "large", "repeat": false, "imageSize": { "width": 1024, "height": 1536 } } },
                 {
-                    "media": { "type": "video", "url": "samples/pexels-arvin-latifi-6466763.mp4", "src": "assets/images/2048x2048/pexels-arvin-latifi-6466763-thumbnail-2048x1152-0001.png" },
+                    "media": { "type": "video", "url": "assets/videos/pexels-arvin-latifi-6466763.mp4", "src": "assets/images/2048x2048/pexels-arvin-latifi-6466763-thumbnail-2048x1152-0001.png" },
                     "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 2048, "height": 1152 } }
                 }
             ]
@@ -220,7 +220,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/512x768-T7Tb-mMF3iY.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1023x1535-X1xhnKjTNlk.jpg" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 1023, "height": 1535 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1518x2048-zzcwdzkNr0U.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1518, "height": 2048 } } },
-                { "media": { "type": "video", "url": "samples/omniFLOW.mp4", "src": "assets/images/2048x2048/omniFLOW-thumbnail-768x576-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 576 } } }
+                { "media": { "type": "video", "url": "assets/videos/omniFLOW.mp4", "src": "assets/images/2048x2048/omniFLOW-thumbnail-768x576-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 576 } } }
             ]
         },
         {
@@ -240,7 +240,7 @@
                 {
                     "media": {
                         "type": "video",
-                        "url": "samples/95179_man_scoring_a_goal_while_playing_basketball_low_angle_BAndW_by_Via_Films_Artgrid-HD_H264-HD.mp4",
+                        "url": "assets/videos/95179_man_scoring_a_goal_while_playing_basketball_low_angle_BAndW_by_Via_Films_Artgrid-HD_H264-HD.mp4",
                         "src": "assets/images/2048x2048/95179_man_scoring_a_goal_while_playing_basketball_low_angle_BAndW_by_Via_Films_Artgrid-HD_H264-HD-thumbnail-1536x864-0001.png"
                     },
                     "mode": { "type": "large", "repeat": true, "imageSize": { "width": 1536, "height": 864 } }
@@ -261,7 +261,7 @@
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1365x2048-TQXKRLL529w.jpg" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 1365, "height": 2048 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/768x512-Y5mDHe7qm3g.jpg" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 512 } } },
                 { "media": { "type": "image", "src": "assets/images/2048x2048/1536x1116-Снимок-экрана-2022-01-17-в-12.31.06.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 1536, "height": 1116 } } },
-                { "media": { "type": "video", "url": "samples/DNA.mp4", "src": "assets/images/2048x2048/DNA-thumbnail-2048x1536-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 2048, "height": 1536 } } }
+                { "media": { "type": "video", "url": "assets/videos/DNA.mp4", "src": "assets/images/2048x2048/DNA-thumbnail-2048x1536-0001.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 2048, "height": 1536 } } }
             ]
         }
     ]
