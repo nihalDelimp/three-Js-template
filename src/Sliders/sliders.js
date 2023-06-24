@@ -19,12 +19,6 @@ import {
 
 scene.background = new THREE.Color(0)
 
-
-
-
-
-
-
 const scrollSurface = document.getElementsByClassName('scroll')[0]
 export class Slider extends THREE.Object3D {
     constructor(j) {
@@ -56,7 +50,7 @@ export class Slider extends THREE.Object3D {
         this.activeMesh = -1;
         this.debug = this.themeOptions.debug || 0;
         this.startShuffling = 0;
-        this.sequence = this.themeOptions.sequence || 1;
+        this.sequence = this.themeOptions.sequence || 0;
         this.ctx = [];
         window.ctx = this.ctx;
         console.log(this.themeOptions.debug);
@@ -67,16 +61,29 @@ export class Slider extends THREE.Object3D {
 
         (!this.projects.length) ? alert('Error While  Loading'): this.init()
 
+        console.log(this.projects.length)
+
         let check = setInterval(() => {
-            (this.dummy.length >= 12 && this.release()),
-            (this.ImageData.length >= 12) && (
-
-                loadingScreen.classList.add('completed'),
-                scroll.startScrolling = 1,
-
-                clearInterval(check)
-            )
-        }, 300);
+            if (this.dummy.length >= 12 && this.release()) {
+              clearInterval(check);
+            }
+          
+            if (this.ImageData.length >= 12) {
+              loadingScreen.classList.add('completed');
+          
+              // Nested interval using setTimeout
+              setTimeout(() => {
+                scroll.startScrolling = 0;
+                setTimeout(() => {
+                  scroll.startScrolling = 1;
+                  alert("ready to go")
+                }, 3000);
+              }, 3000);
+          
+              clearInterval(check);
+            }
+          }, 300);
+          
 
 
 
@@ -87,7 +94,6 @@ export class Slider extends THREE.Object3D {
         console.log('initalize');
         this.createMesh();
         this.recurssive(this.projects, this.projects.length);
-
 
 
     }
@@ -151,6 +157,7 @@ export class Slider extends THREE.Object3D {
 
         });
 
+        console.log(this.projects.length)
 
 
 
@@ -225,7 +232,7 @@ export class Slider extends THREE.Object3D {
     }
 
     createMesh() {
-        let length = 12,
+        let length = 64,
 
             // boundry = (13 * 300 + 100) / 2;
 
@@ -233,8 +240,7 @@ export class Slider extends THREE.Object3D {
             front = [],
             back = [];
         let i, id = 0;
-        for (i = 0; i < length / 2; i++)
-
+        for (i = 0; i <=length; i++)
         {
             let t = this.getGeometry(i);
 
@@ -251,10 +257,6 @@ export class Slider extends THREE.Object3D {
 
         };
         this.dummy = back.concat(front);
-
-
-
-
 
     }
 
@@ -288,9 +290,7 @@ export class Slider extends THREE.Object3D {
             m = (m) % this.workerId;
             j = this.currentQue.find(a => a.material.map.sid === m);
 
-
         }
-
         return m;
 
     }
@@ -305,7 +305,7 @@ export class Slider extends THREE.Object3D {
 
         if (this.currentQue.length < 0) return;
 
-        let lid = l.material.map.sid, //last id 
+        let lid = l.material.map.sid, //last id                     
             kid = k.material.map.sid, //currently shifted id 
             d = 1,
             t = this.currentTexture;
@@ -315,7 +315,7 @@ export class Slider extends THREE.Object3D {
 
 
 
-        (!this.startShuffling && this.currentQue[lid].material.map.sid == 0 && (this.tempStore = this.quePosition, this.startShuffling = 1)) && (console.log('first Cycle Completed')) ||
+        (!this.startShuffling && this.currentQue[lid].material.map.sid == 0 && (this.tempStore = this.quePosition, this.startShuffling = 0)) && (console.log('first Cycle Completed')) ||
         (this.startShuffling) &&
         (
 

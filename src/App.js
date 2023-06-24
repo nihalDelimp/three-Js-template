@@ -13,7 +13,7 @@ import { scrollSurface } from "./utlis/canvas";
 const App = (context) => {
   console.log(context);
     const mountRef = useRef(null);
-
+    
     useEffect(() => {
 
          
