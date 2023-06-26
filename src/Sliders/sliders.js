@@ -62,7 +62,11 @@ export class Slider extends THREE.Object3D {
         (!this.projects.length) ? alert('Error While  Loading'): this.init()
 
         console.log(this.projects.length)
-
+        
+      
+      
+      
+      
         let check = setInterval(() => {
             if (this.dummy.length >= 12 && this.release()) {
               clearInterval(check);
@@ -71,13 +75,13 @@ export class Slider extends THREE.Object3D {
             if (this.ImageData.length >= 12) {
               loadingScreen.classList.add('completed');
           
-              // Nested interval using setTimeout
+            //   Nested interval using setTimeout
               setTimeout(() => {
                 scroll.startScrolling = 0;
                 setTimeout(() => {
                   scroll.startScrolling = 1;
                   alert("ready to go")
-                }, 3000);
+                }, 4000);
               }, 3000);
           
               clearInterval(check);
@@ -232,7 +236,7 @@ export class Slider extends THREE.Object3D {
     }
 
     createMesh() {
-        let length = 64,
+        let length = 74,
 
             // boundry = (13 * 300 + 100) / 2;
 
