@@ -156,7 +156,7 @@
             ]
         },
         {
-            "title": "twel1ve",
+            "title": "twelve",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/57.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/58.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
