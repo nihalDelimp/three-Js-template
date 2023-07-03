@@ -9,7 +9,7 @@
 
     }],
     "projects": [{
-            "title": "ayushroghit",
+            "title": "one",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/01.png" }, "mode": { "type": "regular", "repeat": true, "imageSize": { "width": 512, "height": 288 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/02.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 512, "height": 768 } } },
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "title": "two1",
+            "title": "two",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/14.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/15.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
@@ -41,7 +41,7 @@
               ]
         },
         {
-            "title": "three1",
+            "title": "three",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/19.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/20.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "title": "four1",
+            "title": "four",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/24.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/25.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "title": "five1",
+            "title": "five",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/28.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 576, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/29.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "title": "six1",
+            "title": "six",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/34.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/35.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
@@ -96,7 +96,7 @@
             ]
         },
         {
-            "title": "seven1",
+            "title": "seven",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/42.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 {
@@ -110,7 +110,7 @@
             ]
         },
         {
-            "title": "eight1",
+            "title": "eight",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/43.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/44.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "title": "nine1",
+            "title": "nine",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/48.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "video", "url": "assets/videos/TheDrop_Head.mp4", "src": "assets/images/768x768/TheDrop_Head-thumbnail-768x768-0001.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 768, "height": 768 } } },
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "title": "ten1",
+            "title": "ten",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/50.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/51.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "title": "eleveln1",
+            "title": "eleveln",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/55.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/56.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
@@ -166,7 +166,7 @@
              ]
         },
         {
-            "title": "thirtadasdasdeen",
+            "title": "thirteen",
             "slides": [
                 { "media": { "type": "image", "src": "assets/images/Numbers/62.png" }, "mode": { "type": "large", "repeat": true, "imageSize": { "width": 512, "height": 768 } } },
                 { "media": { "type": "image", "src": "assets/images/Numbers/63.png" }, "mode": { "type": "regular", "repeat": false, "imageSize": { "width": 341, "height": 511 } } },
