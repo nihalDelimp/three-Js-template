@@ -61,37 +61,29 @@ export class Slider extends THREE.Object3D {
 
         (!this.projects.length) ? alert('Error While  Loading'): this.init()
 
-        console.log(this.projects.length)
+ 
+        const projectlegnth = this.projects.length - 1;
+        let loadingScreenTime = 1; // Default loading screen time
         
-      
-      
-      
-      
+        if (projectlegnth >= 1 && projectlegnth <= 4) {
+            loadingScreenTime = 3;
+            alert("done")
+        }
+        
         let check = setInterval(() => {
-            if (this.dummy.length >= 12 && this.release()) {
-              clearInterval(check);
+            if (this.dummy.length >= projectlegnth) {
+                this.release();
             }
-          
-            if (this.ImageData.length >= 12) {
-              loadingScreen.classList.add('completed');
-          
-            //   Nested interval using setTimeout
-              setTimeout(() => {
-                scroll.startScrolling = 0;
-                setTimeout(() => {
-                  scroll.startScrolling = 1;
-                  alert("ready to go")
-                }, 4000);
-              }, 3000);
-          
-              clearInterval(check);
+        
+            if (this.ImageData.length >= projectlegnth) {
+                loadingScreen.classList.add('completed');
+                scroll.startScrolling = 1;
+                clearInterval(check);
             }
-          }, 300);
-          
+        }, loadingScreenTime * 1000);
+        
 
-
-
-    }
+}
 
 
     init() {
@@ -161,7 +153,6 @@ export class Slider extends THREE.Object3D {
 
         });
 
-        console.log(this.projects.length)
 
 
 
@@ -235,8 +226,21 @@ export class Slider extends THREE.Object3D {
         return t;
     }
 
+
+    
+
     createMesh() {
-        let length = 74,
+        const totaldata = this.projects.length;
+        console.log(totaldata);
+        
+        let totalSlides = -1;
+        
+        for (let i = 0; i < totaldata; i++) {
+          totalSlides += this.projects[i].slides.length;
+        }
+        
+        console.log(totalSlides);
+        let length = totalSlides ,
 
             // boundry = (13 * 300 + 100) / 2;
 
