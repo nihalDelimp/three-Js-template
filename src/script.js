@@ -11,6 +11,7 @@ const root = ReactDOM.createRoot(document.getElementsByClassName("webgl")[0]);
 //use poweroftwo texture or resize in backend  for better performance  i.e ["8", "16", "32", "64", "128", "256", "512", "1024", "2048"]
 //may be slow performace in firefox  and edge due to non-poweroftwo  
 
+// let i = [512, 768,1536, 2048]
 let i = [768]
 //[256 * 4, 256 * 6, 256 * 8]
 const needle = Math.max(window.innerWidth, window.innerHeight);

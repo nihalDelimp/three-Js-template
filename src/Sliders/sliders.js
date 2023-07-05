@@ -65,10 +65,7 @@ export class Slider extends THREE.Object3D {
         const projectlegnth = this.projects.length - 1;
         let loadingScreenTime = 1; // Default loading screen time
         
-        if (projectlegnth >= 1 && projectlegnth <= 4) {
-            loadingScreenTime = 3;
-            alert("done")
-        }
+
         
         let check = setInterval(() => {
             if (this.dummy.length >= projectlegnth) {
@@ -76,8 +73,6 @@ export class Slider extends THREE.Object3D {
             }
         
             if (this.ImageData.length >= projectlegnth) {
-                loadingScreen.classList.add('completed');
-                scroll.startScrolling = 1;
                 clearInterval(check);
             }
         }, loadingScreenTime * 1000);
@@ -99,11 +94,8 @@ export class Slider extends THREE.Object3D {
         if (n == 0) {
             return
         };
-        // let l = 0;
-
-
         await this.createTextureProp(a[n - 1].slides);
-        // l++;
+       
         await this.recurssive(a, n - 1);
     }
 
@@ -122,8 +114,25 @@ export class Slider extends THREE.Object3D {
 
                 (media.type == 'video') && videoPlayer.add(media.url, this.workerId);
                 const texture = new THREE.CanvasTexture(a);
-                texture.sid = this.workerId;
 
+                texture.sid = this.workerId;
+                // console.log("loaded", texture.sid);
+                var totaldatanew = this.projects.length;
+                    
+                    var totalSlidesnew = -1;
+                    
+                    for (var i = 0; i < totaldatanew; i++) {
+                        totalSlidesnew += this.projects[i].slides.length;
+                    }
+                // console.log("myLength", totalSlidesnew);
+                const myCountInterval = setInterval(function(){
+                    if(texture.sid == totalSlidesnew) {
+                        // console.log("done deal");
+                        loadingScreen.classList.add('completed');
+                        scroll.startScrolling = 1;
+                        clearInterval(myCountInterval);
+                    }
+                });
                 this.ImageData.push({
                         data: { img: a.target },
                         w: a.target.width,
@@ -132,22 +141,19 @@ export class Slider extends THREE.Object3D {
                         media: media,
                         mode: mode,
                     })
-                    //debug.innerHTML = this.workerId;
+                    
                 try {
                     this.updateTexture(this.workerId);
                 } catch (error) {
                     console.error(error)
                 }
                 this.workerId++
-                    //to be removed later  
                     setTimeout(a => {
                         data,
                         ava,
                         r(''),
                         mesh = undefined;
                     }, 100);
-
-
 
             }
 
@@ -197,7 +203,8 @@ export class Slider extends THREE.Object3D {
 
     }
 
-    getGeometry(id) {
+    getGeometry(id)
+ {
         let canvas = document.createElement('CANVAS');
         canvas.width = canvas.height = 2048;
         let ctx = canvas.getContext('2d');
@@ -410,7 +417,7 @@ export class Slider extends THREE.Object3D {
                 fp = f.position.z,
                 lp = l.position.z;
 
-            if (i && fp > 1800) {
+            if (i && fp > 100) {
                 let k = c.shift();
                 k.position.z = l.position.z - 300;
                 c.push(k);
