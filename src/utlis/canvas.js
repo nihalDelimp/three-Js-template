@@ -25,7 +25,7 @@ class VideoPlayer {
       h: 1,
     };
 
-    this.ctx = videoCanvas.getContext('webgl'); // or 'webgl2'
+    this.ctx = videoCanvas.getContext('webgl'); 
     this.t = new THREE.Texture(videoCanvas);
     this.sid = -1;
     this.active = null;
