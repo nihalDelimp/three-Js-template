@@ -101,6 +101,17 @@ export class Slider extends THREE.Object3D {
 
     async createTextureProp(e) {
 
+        const totaldata = this.projects.length;
+        let totalSlides = -1;
+
+        for (let i = 0; i < totaldata; i++) {
+        
+            totalSlides += this.projects[i].slides.length;
+}
+let length = totalSlides
+
+
+
         const g = prop => new Promise(r => {
 
             let media = prop.media,
@@ -147,13 +158,26 @@ export class Slider extends THREE.Object3D {
                 } catch (error) {
                     console.error(error)
                 }
-                this.workerId++
+                if (length <= 9){
+                    this.workerId++
+                    setTimeout(a => {
+                    data,
+                    ava,
+                    r(''),
+                    mesh = undefined;
+                    }, 1000);
+                }
+
+                else{
+
+                     this.workerId++
                     setTimeout(a => {
                         data,
                         ava,
                         r(''),
                         mesh = undefined;
                     }, 100);
+                    }
 
             }
 
